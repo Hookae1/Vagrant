@@ -1,0 +1,2 @@
+# Vagrant
+Virtualization via Vagrant
