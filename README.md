@@ -1,3 +1,3 @@
 # Vagrant
-This repo is related to virtualization via Vagrant
+Simply vagrantfile for creating Virtual machine
 
